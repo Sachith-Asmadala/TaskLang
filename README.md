@@ -459,3 +459,8 @@ Possible future features:
 ## Submission Notes
 
 Do not submit generated build artifacts such as `tasklang`, `lex.yy.c`, `parser.tab.c`, `parser.tab.h`, `parser.output`, object files, `.DS_Store`, `__MACOSX`, or `*.dSYM` directories. Run `make clean` before packaging the source code.
+
+
+## Code learning guide
+
+[Read the code walkthrough and interview questions](docs/INTERVIEW_GUIDE.md).
